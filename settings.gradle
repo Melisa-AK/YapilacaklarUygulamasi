@@ -1,0 +1,2 @@
+rootProject.name = "YapilacaklarUygulamasi"
+include ':app'
